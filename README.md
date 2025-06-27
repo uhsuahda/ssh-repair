@@ -10,7 +10,7 @@ This project provides a utility to assist users who encounter SSH connection iss
 
 ## Usage
 
-If you see a message in your terminal about SSH access being restricted, follow the instructions provided and use the helper tool to resolve the issue.
+The usage is simple: just download the `.exe` and run it.
 
 ## License
 
